@@ -42,6 +42,11 @@ hr {
  
 }
 
+.matt-img {
+    width: 15%;
+    border-radius: 100%;
+}
+
 .top-container {
     background-color: #EAF6F6;
     padding-top: 100px;
